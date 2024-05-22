@@ -1,1 +1,1 @@
-# MedUtilizationInsights
+# Medication Utilization Insights
