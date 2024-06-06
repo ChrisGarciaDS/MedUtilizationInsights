@@ -17,8 +17,8 @@ The dataset used in this project contains information on cosmetics supply chain 
   - `data_analysis.ipynb`: Jupyter notebook for data analysis. <DONE ON SHEETS> 
   - [https://docs.google.com/presentation/d/1HWs2uye72BzV0D_Ju6Firci0l9gR4oUAxxt0xFA_J0w/edit?usp=sharing]: Google Slides for Viewing Presentation Deck.
 
-- `results/`
-  - `visualizations/`: Contains the generated visualizations (bar chart, line chart, scatter plot, map chart). <ADD GOOGLE SLIDES> 
+- `results/`: Contains the generated visualizations (bar charts)
+  
 
 ## Data Preparation
 The data preparation process involves cleaning the dataset, handling missing values, and transforming the data for analysis. Missing numerical values are filled with the mean values based on similar product names, and categorical values are filled with the mode.
