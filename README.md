@@ -1,7 +1,9 @@
 # Supply Chain Growth Analytics
 
 ## Project Overview
-This project focuses on analyzing the supply chain and inventory management within the cosmetics industry. The aim is to optimize inventory levels, reduce stockouts, and enhance supply chain efficiency. Gathered from Kaggle: <Add Link>
+This project focuses on analyzing the supply chain and inventory management within the cosmetics industry. The aim is to optimize inventory levels, reduce stockouts, and enhance supply chain efficiency. 
+
+Data gathered from Kaggle: [data here]
 
 ## Data
 The dataset used in this project contains information on cosmetics supply chain operations. It includes details on inventory levels, sales, and distribution across different regions.
@@ -14,8 +16,8 @@ The dataset used in this project contains information on cosmetics supply chain 
 
 - `notebooks/`
   - `data_preparation.ipynb`: Jupyter notebook for data cleaning and preparation. <DONE ON PYTHON>
-  - `[https://docs.google.com/spreadsheets/d/1g0E1_VtL36EMa5ikVqw4ulgV4DgW1E829xnp-2wXZs8/edit?usp=sharing]`: Google Sheets for for data analysis.
-  - [https://docs.google.com/presentation/d/1HWs2uye72BzV0D_Ju6Firci0l9gR4oUAxxt0xFA_J0w/edit?usp=sharing]: Presentation Slide Deck 
+  - [https://docs.google.com/spreadsheets/d/1g0E1_VtL36EMa5ikVqw4ulgV4DgW1E829xnp-2wXZs8/edit?usp=sharing]: Google Sheets for for data analysis.
+  - [https://docs.google.com/presentation/d/1HWs2uye72BzV0D_Ju6Firci0l9gR4oUAxxt0xFA_J0w/edit?usp=sharing]: Presentation Slide Deck.
 
 - `results/`: Contains the generated visualizations (bar charts)
   
