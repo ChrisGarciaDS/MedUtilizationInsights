@@ -1,6 +1,6 @@
 # Supply Chain Growth Analytics
 
-## Project Overview
+## Project Overview (CURRENTLY BEING UPDATED)
 This project focuses on analyzing the supply chain and inventory management within the cosmetics industry. The aim is to optimize inventory levels, reduce stockouts, and enhance supply chain efficiency. 
 
 Data gathered from Kaggle: [data here]
